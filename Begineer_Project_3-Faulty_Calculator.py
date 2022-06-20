@@ -1,3 +1,6 @@
+""" Faulty Calculator
+----------------------------------------
+"""
 print("what type of arithmetic operation you want to do?\n"
       "type + for addition\n"
       "type - for subtraction\n"
